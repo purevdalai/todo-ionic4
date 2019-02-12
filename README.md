@@ -4,5 +4,9 @@
 `npm install`
 # Run application
 `ionic serve`
+# Add ios platform
+`ionic cordova platform add ios`
+# Add android platform
+`ionic cordova platform add android`
 # Build application android
 `ionic cordova build android --prod`
